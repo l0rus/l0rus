@@ -17,9 +17,9 @@
 
 ### 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=l0rus\&show_icons=true\&hide_title=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=l0rus&show_icons=true&rank_icon=github&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=l0rus\&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l0rus&layout=compact&hide_border=true)
 
 ---
 
